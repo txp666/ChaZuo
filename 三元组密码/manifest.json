@@ -1,0 +1,16 @@
+{
+    "name": "阿里云IoT工具",
+    "description": "阿里云IoT设备身份二维码生成工具",
+    "version": "1.0",
+    "icons":
+    {
+        "128": "icon_128.png"
+    },
+    "browser_action":
+    {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "manifest_version": 2
+
+}
