@@ -1,0 +1,2 @@
+>>> [   4307] HomeKit: Using existing accessory ID: 77:EC:A5:CC:82:7F
+>>> [   4313] HomeKit: Preiniting pairing context 
